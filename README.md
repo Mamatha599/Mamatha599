@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋 I'm Mamatha S M  
 
-<!--
-**Mamatha599/Mamatha599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE @ Presidency University, Bangalore (CGPA: 8.67)  
+💻 Aspiring Software Engineer | Java | Python | Full Stack | AI Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a passionate learner who enjoys transforming ideas into real-world software solutions.  
+I enjoy working on Java-based applications, web development, and AI-driven systems, and I’m continuously improving my problem-solving and development skills.
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Java, Python  
+- **Web:** HTML, CSS, JavaScript  
+- **Backend & DB:** MySQL, Flask  
+- **Tools:** Git, GitHub, VS Code, Eclipse, Jupyter Notebook  
+- **Concepts:** OOP, DSA, SDLC, Version Control  
+
+---
+
+## 📌 Projects
+🔹 Arduino Food Delivery Robot  
+🔹 Raspberry Pi Pest Control System  
+🔹 Farm-to-Fabric Wool Monitoring System  
+
+(Details inside respective repositories 👇)
+
+---
+
+## 📈 Currently Learning
+- Advanced Java & DSA  
+- Full Stack Development  
+- Machine Learning fundamentals  
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: (add link)
+- Email: mamathasm2624@gmail.com
