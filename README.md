@@ -7,7 +7,7 @@
 ---
 
 ## 🌙 About Me:
-<img align="right" width="500" height="500" border-radius="20%" src="https://media.gettyimages.com/id/165967112/vector/female-office-worker.jpg?s=612x612&w=gi&k=20&c=wR7vQHPEdjVn8AVRGx3gsWfTDoI6CbizgWJI3AAqgF0=" />
+<img align="right" width="300" height="300" border-radius="20%" src="https://media.gettyimages.com/id/165967112/vector/female-office-worker.jpg?s=612x612&w=gi&k=20&c=wR7vQHPEdjVn8AVRGx3gsWfTDoI6CbizgWJI3AAqgF0=" />
 
 👩‍💻 Aspiring Software Developer and Full Stack Enthusiast with strong skills in Java, Python, and modern web technologies.
 
